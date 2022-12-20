@@ -1,0 +1,137 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*navstart*/
+
+.nav-item{
+	padding: 5px;
+
+}
+.space{
+	float: right;
+	text-decoration: none;
+}
+.nav-item1{
+	
+
+}
+.close-icon {
+    margin-top: -16px;
+    text-align: right;
+}
+.list{
+	display: flex;
+	float: left;
+}
+a.lol{ color: white;
+  background-color: black;
+}
+ul.lol{ color: white;
+  background-color: black;
+}
+
+/*navend*/
+/*background body*/
+.back{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/bg15.jpg);
+
+background-position: center;
+background-size: cover;
+width: 10000px;
+}
+div.border{
+	display: flex;
+	justify-content: center;
+
+}
+h1.center{ border: 1px hidden red;
+	margin-top: 8%;
+	margin-bottom: 10%;
+	font-size: 110px;
+}
+p.smalltext{ text-align: center;
+	font-size: x-large;
+}
+/*backgroundbody*/
+
+
+/*three problem start*/
+div.boy{
+  margin-top: 8%;
+}
+div.okay{
+  background-color: #f1f6fa;
+  
+
+
+}
+div.fruit{
+  display: flex;
+  justify-content: center;
+}
+p.price{ text-align: center;
+  color: grey;
+  font-size: 17px;
+  font-weight: 100;
+}
+h1.nature{ text-align: center;
+  font-size: 20px;
+}
+p.icontara{
+  color: red;
+  text-align: center;
+}
+div.okay1{  
+  
+  background-color: #f1f6fa;
+
+}
+
+
+/*thrre problem end*/
+/*endfooter start*/
+div.footerback{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/bg5.jpg);
+
+}
+div.bich{ border: 1px hidden black;
+  display: flex;
+  justify-content: center;
+}
+img.logog{
+  border: 1px hidden red;
+  margin-bottom: 10%;
+}
+h1.heading{
+  text-align: center;
+  font-size: 18px;
+  font-weight: 360;
+
+}
+h1.support{ font-size: 26px;
+  text-align: center;
+}
+p.order{ color: grey;
+  margin-top: 13%;
+  font-size: 19px;
+  font-weight: 400;
+}
+a.footancor{ color: grey;
+  text-decoration: none;
+}
+a.footancor:hover {
+  color: orange;
+}
+a.footancor1:hover {
+  color: orange;
+}
+a.footancor1{ color: black;
+  text-decoration: none;
+}
+a.hovericon:hover {
+  color: orange;
+}
+/*endfooterend*/

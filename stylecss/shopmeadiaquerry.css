@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1054px) {
+
+h1.center{
+		font-size: 50px;
+
+	}
+}
+@media only screen and (max-width: 386px) {
+
+div.okay1{ 
+  margin-left: 0.1%;
+  background-color: #f1f6fa;
+
+}
+div.okay{
+  background-color: #f1f6fa;
+  margin-left: 0.1%;
+
+
+}
+ img.logo{
+    width: 170px;
+    height: 90px;
+  }
+}

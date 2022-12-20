@@ -1,0 +1,173 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*navstart*/
+
+.nav-item{
+	padding: 5px;
+
+}
+.space{
+	float: right;
+	text-decoration: none;
+}
+.nav-item1{
+	
+
+}
+.close-icon {
+    margin-top: -16px;
+    text-align: right;
+}
+.list{
+	display: flex;
+	float: left;
+}
+a.lol{ color: white;
+  background-color: black;
+}
+ul.lol{ color: white;
+  background-color: black;
+}
+
+/*navend*/
+/*background body*/
+.back{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/bg15.jpg);
+
+background-position: center;
+background-size: cover;
+}
+div.border{
+	display: flex;
+	justify-content: center;
+
+}
+h1.center{ border: 1px hidden red;
+	margin-top: 8%;
+	margin-bottom: 10%;
+	font-size: 110px;
+}
+p.smalltext{ text-align: center;
+	font-size: x-large;
+}
+/*backgroundbody*/
+/*next section start berry */
+
+div.disp{
+	display: flex;
+	justify-content: center;
+	border: 1px hidden red;
+}
+h1.imgandtext{ font-size: 55px;
+	margin-top: 9%;
+}
+p.lorem{ margin-top: 4%;
+	color: grey;
+	font-size: 15px;
+}
+div.read{
+  background-color: #49505700;
+  border: hidden;
+  font-size: small;
+}
+/*next section end berry*/
+/*picture and text ka kam start */
+div.backo{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/bg16.jpg);
+
+background-position: center;
+background-size: cover;
+
+}
+h1.head{ margin-top: 35%;
+	text-align: center;
+	font-size: 55px;
+}
+button.butt{
+	margin-left: 5%;
+
+}
+p.text1{ margin-top: 6%;
+	text-align: center;
+	font-size: 15px;
+	font-weight: 200;
+	font-family: sans-serif;
+	color: grey;
+	width: 50%;
+	margin-left: 26%;
+}
+/*picture and text ka kam end*/
+/*ourfarmersstart*/
+div.our{
+  display: flex;
+  justify-content: center;
+}
+h1.farmerimg{
+border: 1px hidden red;
+text-align: center;
+font-size: 80px;
+}
+p.farm{ font-size: medium;
+  color: grey;
+  font-weight: 1;
+  text-align: center;
+}
+/*ourfarmerend*/
+
+
+/*carousel start*/
+
+img.aroow1{ 
+  border-top-left-radius:100%;
+  border-top-right-radius:100% ;
+  border-bottom-right-radius:100% ;
+  border-bottom-left-radius:100% ;
+}
+/*carouselend*/
+/*endfooter start*/
+div.footerback{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/bg5.jpg);
+
+}
+div.bich{ border: 1px hidden black;
+  display: flex;
+  justify-content: center;
+}
+img.logog{
+  border: 1px hidden red;
+  margin-bottom: 10%;
+}
+h1.heading{
+  text-align: center;
+  font-size: 18px;
+  font-weight: 360;
+
+}
+h1.support{ font-size: 26px;
+  text-align: center;
+}
+p.order{ color: grey;
+  margin-top: 13%;
+  font-size: 19px;
+  font-weight: 400;
+}
+a.footancor{ color: grey;
+  text-decoration: none;
+}
+a.footancor:hover {
+  color: orange;
+}
+a.footancor1:hover {
+  color: orange;
+}
+a.footancor1{ color: black;
+  text-decoration: none;
+}
+a.hovericon:hover {
+  color: orange;
+}
+/*endfooterend*/

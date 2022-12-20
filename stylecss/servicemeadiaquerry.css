@@ -1,0 +1,46 @@
+@media only screen and (max-width: 1054px) {
+
+
+
+
+
+
+
+h1.center{
+		font-size: 80px;
+
+	}
+
+img.uchal{
+  border: 1px hidden red;
+   width: 300px;
+  
+  position: relative;
+  animation: myfruit 8s infinite;
+  animation-direction: alternate;
+  margin-left: 3%
+ }
+
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 421px) {
+
+.vedio{
+	width: 200px;
+}
+img.uchal{
+  border: 1px hidden red;
+   width: 200px;
+  
+  position: relative;
+  animation: myfruit 8s infinite;
+  animation-direction: alternate;
+  margin-left: 3%
+ }
+}

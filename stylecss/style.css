@@ -1,0 +1,457 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*navstart*/
+
+.nav-item{
+	padding: 5px;
+
+}
+.space{
+	float: right;
+	text-decoration: none;
+}
+.nav-item1{
+	
+
+}
+.close-icon {
+    margin-top: 16px;
+    text-align: right;
+}
+.list{
+	display: flex;
+	float: left;
+}
+a.lol{ color: white;
+  background-color: black;
+}
+ul.lol{ color: white;
+  background-color: black;
+}
+
+/*navend*/
+/*back*/
+.back{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/slider.jpg);
+height: 680px;
+background-position: center;
+background-size: cover;
+}
+.slider-text span {
+    font-size: 14px;
+    color: #5ba760;
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+}
+.box{
+	border: 1px hidden hidden;
+}
+
+.cleaning{
+  color: #5ba760;;
+  border: 1px hidden hidden;
+  text-align: center;
+  margin-right: 50%;
+  margin-top: 11.4%;
+  font-size: 17px;
+}
+.paragraph1{ font: 50px poppins,sans-serif;
+  border: 1px hidden hidden;
+  text-align: center;
+  
+  
+  font-weight: 600;
+  margin-right: 25%;
+  font-size: 80px;
+}
+.butt{
+	margin-left: 30%;
+
+}
+p.services{
+	border: 1px hidden hidden;
+}
+@keyframes mysecond {
+  0%   {background: ; left: 0px; top: 0px;}
+  
+  50%  {background: ; left: 0px; top: 40px;}
+ 
+  100% {background: ; left:0px; top: 0px;}
+}
+img.images1{
+  width: 200px;
+  height: 170px;
+  
+  position: relative;
+  animation: mysecond 8s infinite;
+  animation-direction: alternate;
+  margin-left: 50%;
+ 
+
+}
+a.servicess{
+  text-decoration: none;
+}
+/*backend*/
+/*textandanimation*/
+.orani{
+	border: 1px hidden red;
+}
+@keyframes myfirst {
+  0%   {background: ; left: 0px; top: 0px;}
+  
+  50%  {background: ; left: 0px; top: 30px;}
+ 
+  100% {background: ; left:0px; top: 0px;}
+}
+img.images2{
+	border: 1px hidden red;
+  width: 520px;
+  height: 640px;
+  
+  position: relative;
+  animation: myfirst 8s infinite;
+  animation-direction: alternate;
+  margin-left: 3%
+ }
+
+ .textsec{
+ 	border: 1px hidden red;
+ }
+ .texthead{ border: 1px hidden red;
+ 	font-size: 60px;
+ 	text-align: center;
+ 	
+ 	font-weight: 800;
+ }
+ .nexttext{ text-align: center;
+ 	color: grey;
+ }
+ img.fea{ float: left;
+ 	
+ 	margin-left: 15%;
+ 	border: 1px hidden red;
+ }
+ h1.food{ margin-top: 6%;
+ 
+ 	border: 1px hidden red;
+
+ }
+ p.greyclass{ color: grey;
+ 	font-size: 13px;
+ 	font-weight: 1;
+ 	margin-left: 3%;
+ 	border:1px hidden red ;}
+
+/*textandaniend*/
+
+/*background and 3sectionstart*/
+
+.backend{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/bg6.jpg);
+
+}
+div.box1{
+  border: 1px hidden cyan;
+ 
+
+}
+div.header{ margin-top: 6%;
+  display: flex;
+justify-content: center;
+  border: 1px hidden red;
+}
+h1.align{ border: 1px hidden red;
+  text-align: center;
+}
+p.smtext{ color: grey;
+  font-size: 17px;
+  font-weight: 10;
+}
+h1#box4{ width: 150px;
+ border: 1px hidden red;
+ margin: auto;
+ 
+
+}
+h2.fresh{ text-align: center;
+  font-size: 30px;
+}
+p.lorem{
+  text-align: center;
+  
+    color:#6e6e6e ;
+}
+div.read{
+  background-color: #49505700;
+  border: hidden;
+}
+/*seprate*/
+/*background and 3sectionend*/
+/*boumce and center text and kam start*/
+@keyframes mythird {
+  0%   {background: ; left: 0px; top: 0px;}
+  
+  50%  {background: ; left: 0px; top: 30px;}
+ 
+  100% {background: ; left:0px; top: 0px;}
+}
+img.uchal{
+  border: 1px hidden red;
+  width: 200px;
+  height: 200px;
+  
+  position: relative;
+  animation: mythird 8s infinite;
+  animation-direction: alternate;
+  margin-left: 3%
+ }
+ div.center1{ border: 1px hidden red;
+  
+ }
+ h1.service{margin-top: 10%;
+  text-align: center;
+ }
+p.service{
+  text-align: center;
+  color: grey;
+  font-size: 16px;
+  font-weight: 100;
+}
+img.uchal2{
+  border: 1px hidden red;
+  width: 200px;
+  height: 200px;
+  
+  position: relative;
+  animation: mythird 8s infinite;
+  animation-direction: alternate;
+float: right;
+ }
+/*boumce and center text and kam end*/
+
+/*three problem start*/
+div.boy{
+  margin-top: 8%;
+}
+div.okay{
+  background-color: #f1f6fa;
+  margin-left: 16%;
+
+
+}
+p.price{ text-align: center;
+  color: grey;
+  font-size: 17px;
+  font-weight: 100;
+}
+h1.nature{ text-align: center;
+  font-size: 20px;
+}
+p.icontara{
+  color: red;
+  text-align: center;
+}
+div.okay1{
+  margin-left: 16%;
+  background-color: #f1f6fa;
+
+}
+img.product{
+  width: 250px;
+}
+/*thrre problem end*/
+/*bannermodeonstart*/
+.orangebackground{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/bg7.jpg);
+
+
+
+}
+div.content{
+  display: flex;
+  justify-content: center;
+}
+div.welcome{
+  font-size: 17px;
+  color: white;
+  border: 1px hidden black;
+  margin-top: 5%;
+  margin-bottom: 6%;
+  text-align: center;
+  font-family: rubik,sans-serif;
+}
+h1.bigsentence{
+  font-size: 60px;
+  font-family: rubik,sans-serif;
+  font-weight: 520;
+}
+/*bannermodeoffend*/
+
+
+/*askmefruit satrt*/
+div.two{ margin-top: 3%;
+  border: 1px hidden black;
+  display: flex;
+  justify-content: center;
+}
+div.frequently{ border: 1px hidden red;
+  font-size: 50px;
+  font-family: rubik,sans-serif;
+  font-weight: 600;
+
+}
+p.lorem2{
+  font-size: medium;
+  color: grey;
+  font-weight: 1;
+}
+h1.rectangle{
+  width: 100%;
+  
+  background-color: #f1f6fa;
+  border: 1px hidden white;
+
+  
+}
+p.plusminus{ margin-top: 4%;
+  margin-left: 5%;
+  font-size: 16px;
+  border: 1px hidden #f1f6fa;
+  color: #6f6f6f;
+
+}
+@keyframes myfourth {
+  0%   {background: ; left: 0px; top: 0px;}
+  
+  50%  {background: ; left: 0px; top: 30px;}
+ 
+  100% {background: ; left:0px; top: 0px;}
+}
+img.fruit{
+  border: 1px hidden red;
+ 
+  
+  position: relative;
+  animation: myfourth 5s infinite;
+  animation-direction: alternate;
+  margin-left: 3%
+ }
+/*ask me fruit end*/
+/*fruitanddealstart*/
+div.three{ margin-top: 3%;
+  display: flex;
+  justify-content: center;
+  border: 1px hidden red;
+}
+.third{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/bg8.jpg);
+
+
+
+}
+div.third1{
+  margin-top: 5%;
+}
+h1.deal{
+  margin-top: 5%;
+  border: 1px hidden red;
+  font-size: 55px;
+  font-family: rubik,sans-serif;
+  font-weight: 600;
+}
+p.dealpara{
+  font-size: 16px;
+  margin-top: 4%;
+  font-weight:1;
+  font-family: sans-serif;
+  color: grey;
+}
+span.badge{ width: 100px;
+  color: black;
+  border-bottom: 3px solid #f29c1f;
+  border-left: 3px solid #f29c1f;
+}
+p.centerp{ 
+  display: flex;
+  justify-content: center;
+  margin-top: 14%;
+  
+}
+/*fruitanddealend*/
+/*ourfarmersstart*/
+div.our{
+  display: flex;
+  justify-content: center;
+}
+h1.farmerimg{
+border: 1px hidden red;
+text-align: center;
+font-size: 80px;
+}
+p.farm{ font-size: medium;
+  color: grey;
+  font-weight: 1;
+  text-align: center;
+}
+/*ourfarmerend*/
+
+
+/*carousel start*/
+
+img.aroow1{ 
+  border-top-left-radius:100%;
+  border-top-right-radius:100% ;
+  border-bottom-right-radius:100% ;
+  border-bottom-left-radius:100% ;
+}
+/*carouselend*/
+/*endfooter start*/
+div.footerback{background: linear-gradient(to left,rgb(0 20 4 / 7%),rgb(20 20 0 / 6%),rgb(20 20 0 / 15%)),
+url(../images/bg5.jpg);
+
+}
+div.bich{ border: 1px hidden black;
+  display: flex;
+  justify-content: center;
+}
+img.logog{
+  border: 1px hidden red;
+  margin-bottom: 10%;
+}
+h1.heading{
+  text-align: center;
+  font-size: 18px;
+  font-weight: 360;
+
+}
+h1.support{ font-size: 26px;
+  text-align: center;
+}
+p.order{ color: grey;
+  margin-top: 13%;
+  font-size: 19px;
+  font-weight: 400;
+}
+a.footancor{ color: grey;
+  text-decoration: none;
+}
+a.footancor:hover {
+  color: orange;
+}
+a.footancor1:hover {
+  color: orange;
+}
+a.footancor1{ color: black;
+  text-decoration: none;
+}
+a.hovericon:hover {
+  color: orange;
+}
+/*endfooterend*/
